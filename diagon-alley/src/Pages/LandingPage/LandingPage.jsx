@@ -9,4 +9,3 @@ const LandingPage = () => {
 }
 
 export { LandingPage } 
-
